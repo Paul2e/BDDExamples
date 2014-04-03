@@ -1,0 +1,7 @@
+TestResults
+packages
+*.suo
+bin
+obj
+/TicTacToe/*.sln
+*.sln
